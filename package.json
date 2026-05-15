@@ -1,0 +1,9 @@
+{
+  "name": "odetoem",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ode to Em — a Shakespearean sonnet in praise of the em dash",
+  "scripts": {
+    "build": "echo \"static site — nothing to build\""
+  }
+}

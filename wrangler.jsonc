@@ -1,0 +1,10 @@
+{
+  // Assets-only Worker serving https://www.odetoem.com
+  // No `main`: this Worker only serves the static files in the
+  // project root. `.assetsignore` keeps tooling out of the upload.
+  "name": "odetoem",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "."
+  }
+}
